@@ -7,11 +7,11 @@ QUANTACUS_AI_ML_INTERN_ASSIGNMENT/
 │
 ├── Email_Campaign_Report.pdf               # Final report (PDF format)
 ├── Email_marketing_compaign.ipynb          # Jupyter notebook with full analysis and modeling
-├── email_table.csv                         # Complete email campaign dataset
-├── email_opened_table.csv                  # Subset of users who opened the email
-├── link_clicked_table.csv                  # Subset of users who clicked on the link
-├── ML intern - Case Study Task.docx        # Original problem statement and task description
-└── README.md                               # Project overview and file structure (this file)
+├── email_table.csv                         
+├── email_opened_table.csv                  
+├── link_clicked_table.csv                  
+├── ML intern - Case Study Task.docx        
+└── README.md                               
 ```
 
 ---
