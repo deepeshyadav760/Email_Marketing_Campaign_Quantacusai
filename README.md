@@ -1,9 +1,9 @@
-# Email_Marketing_Campaign_Quantacusai
+# Email_Marketing_Campaign
 
 ## 🗃️ Directory Structure
 
 ```
-QUANTACUS_AI_ML_INTERN_ASSIGNMENT/
+EMAIL_MARKETING_PROJECT/
 │
 ├── Email_Campaign_Report.pdf               # Final report (PDF format)
 ├── Email_marketing_compaign.ipynb          # Jupyter notebook with full analysis and modeling
